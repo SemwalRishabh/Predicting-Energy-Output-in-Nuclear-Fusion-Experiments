@@ -2,7 +2,7 @@
 
 ## Task 1: Dataset and Tasks
 
-Challenges and Limitations:
+### Challenges and Limitations:
 Complexity of Feature Interactions: Many of the features in the dataset are interdependent. For example, temperature, pressure, and confinement time all influence each other. This makes it difficult to isolate the effect of a single variable on power output.
 
 Data Quality: Since this is a simulated dataset, it might not capture the full complexity of real-world fusion experiments. Real-world data could include noise, missing values, or sensor inaccuracies that are not present in this clean dataset.
