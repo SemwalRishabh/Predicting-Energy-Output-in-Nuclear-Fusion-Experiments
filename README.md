@@ -1,6 +1,7 @@
 # Predicting-Energy-Output-in-Nuclear-Fusion-Experiments
 
-Task 1: Dataset and Tasks
+## Task 1: Dataset and Tasks
+
 Challenges and Limitations:
 Complexity of Feature Interactions: Many of the features in the dataset are interdependent. For example, temperature, pressure, and confinement time all influence each other. This makes it difficult to isolate the effect of a single variable on power output.
 
